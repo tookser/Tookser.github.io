@@ -92,6 +92,10 @@ sudo mount -o size&lt;span style="color:#f92672">=&lt;/span>10M -t tmpfs tmpfs /
 &lt;ul>
 &lt;li>(для деталей и уточнений) &lt;a href="https://datatracker.ietf.org/doc/html/rfc4226">RFC 4226&lt;/a>&lt;/li>
 &lt;li>(менее полезное в случае непонимания) &lt;a href="https://ru.wikipedia.org/wiki/HOTP">ру-вики&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/HOTP">en-wiki&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="см-также">См. также&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Transaction_authentication_number">TAN&lt;/a> - тоже OTP (One Time Password), для банковских сервисов.&lt;/li>
 &lt;/ul></content></item><item><title>Мой третий хакатон (отчёт по хакатону ogon.ai - MCP)</title><link>https://tookser.github.io/posts/hackathon2/</link><pubDate>Mon, 16 Jun 2025 23:13:12 +0300</pubDate><guid>https://tookser.github.io/posts/hackathon2/</guid><description>Сначала будет отчёт по хакатону, с описанием &amp;ldquo;как это было и чувствовалось&amp;rdquo;. Во второй части — про инструменты которые я впервые потыкал.
 Отчёт Изначально прочитал об идее этого онлайн-хакатон, и сразу подумал &amp;ldquo;круто, как раз про mcp, можно будет потыкать!&amp;rdquo;. И когда понял, что собирается команда, решил присоединиться.
 Хакатон - это стартап в миниатюре.
