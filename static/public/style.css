@@ -1,0 +1,125 @@
+@font-face {
+    font-family: XeniaRegular;
+    src: url('fonts/xenia_regular.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+.app {
+  max-width: 420px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #020617;
+  border-radius: 12px;
+}
+
+.play-screen {
+   display: flex;
+   flex-direction: row;
+}
+
+.left-part {
+    width: 30%;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  margin-right: 8px;
+  margin-top: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+
+.log {
+  margin-top: 20px;
+  margin-right: 20px;
+  padding: 10px;
+  background: #020617;
+  border: 1px solid #1e293b;
+  border-radius: 8px;
+  max-height: 160px;
+  overflow-y: auto;
+  width: 60%;
+  font-family: XeniaRegular;
+}
+
+.log-entry {
+  font-size: 14px;
+  opacity: 0.85;
+  margin-bottom: 4px;
+}
+
+.atb-container {
+  width: 100%;
+  height: 12px;
+  background: #1e293b;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.atb-fill {
+  height: 100%;
+  //background: #22c55e;
+  background: #4d4Ae2;
+
+  //transition: width 0.05s linear;
+
+}
+
+.block-container {
+  width: 100%;
+  height: 12px;
+  background: #1f2733;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.block-fill {
+  height: 100%;
+  background: #999;
+
+  //transition: width 0.05s linear;
+
+}
+
+
+
+.hp-container {
+  width: 100%;
+  height: 12px;
+  background: #121;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.hp-fill {
+  height: 100%;
+  //background: #22c55e;
+  background: green;
+
+  //transition: width 0.05s linear;
+
+}
