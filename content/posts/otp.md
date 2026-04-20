@@ -86,3 +86,7 @@ TOTP - для двухфакторной авторизации. Вместо к
 
 - (для деталей и уточнений) [RFC 4226](https://datatracker.ietf.org/doc/html/rfc4226)
 - (менее полезное в случае непонимания) [ру-вики](https://ru.wikipedia.org/wiki/HOTP), [en-wiki](https://en.wikipedia.org/wiki/HOTP)
+
+### См. также
+
+- [TAN](https://en.wikipedia.org/wiki/Transaction_authentication_number) - тоже OTP (One Time Password), для банковских сервисов.
