@@ -89,3 +89,7 @@ defaultContentLanguage = "ru"
         identifier = "psycho"
         name = "Сверхлокальный психотерапевт"
         url = "/therapist.html"
+      [[languages.ru.menu.main]]
+        identifier = "rpg"
+        name = "Прототип rpg на ClojureScript"
+        url = "/rpg.html"
