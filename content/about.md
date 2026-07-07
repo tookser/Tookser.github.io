@@ -11,4 +11,5 @@ draft: false
 Прошёл интернет-курс по машинному зрению на платформе Stepic, окончил курс по разработке на Python от VK, участвовал в курсе от VK по автоматизированному тестированию. Окончил вводный курс по AI Safety от [ЦДО Моноид](https://monoid.ru).
 
 Почта для связи: t, 2468, та же буква ещё 3 раза, gmail.com
+
 Contact e-mail: t, 2468, then repeat the same letter 3 times, gmail.com
