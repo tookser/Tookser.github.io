@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Личный сайт Ивана Белашкина</title><link>https://tookser.github.io/</link><description>Recent content on Личный сайт Ивана Белашкина</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Sat, 10 Jan 2026 16:12:07 +0300</lastBuildDate><atom:link href="https://tookser.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Основная проблема цитат из LLM</title><link>https://tookser.github.io/posts/llm_citing/</link><pubDate>Sat, 10 Jan 2026 16:12:07 +0300</pubDate><guid>https://tookser.github.io/posts/llm_citing/</guid><description>Несколько причин, по которым обычно не стоит отвечать на вопрос в чате копипастой из LLM.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Личный сайт Ивана Белашкина</title><link>https://tookser.github.io/</link><description>Recent content on Личный сайт Ивана Белашкина</description><generator>Hugo -- gohugo.io</generator><language>ru-ru</language><lastBuildDate>Thu, 09 Jul 2026 06:12:17 +0300</lastBuildDate><atom:link href="https://tookser.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Материалы по изучению SQL</title><link>https://tookser.github.io/posts/sql_research/</link><pubDate>Thu, 09 Jul 2026 06:12:17 +0300</pubDate><guid>https://tookser.github.io/posts/sql_research/</guid><description>Интерактивный тренажёр по SQL от Озеровой Галины на Степике. Хорошая подача, интерактивно (и мало теории), значительную часть курса на повторение.
+https://www.practicewindowfunctions.com - на английском, вполне нормально, но чувствуется рука нейросети🤖🤖🤖. Например, там есть туториал по оконным функциям.
+Также LLM оказывается полезной, например, может указать на пробелы в знаниях. Лучше описывать свою ситуацию подробнее (что уже знаешь, что хочешь знать, сколько времени можешь выделить), и указывать в промте, что нужно спросить обратную связь (стандартные рекомендации для таких целей).</description><content>&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://stepik.org/course/63054/">Интерактивный тренажёр по SQL&lt;/a> от Озеровой Галины на Степике. Хорошая подача, интерактивно (и мало теории), значительную часть курса на повторение.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.practicewindowfunctions.com">https://www.practicewindowfunctions.com&lt;/a> - на английском, вполне нормально, но чувствуется рука нейросети🤖🤖🤖. Например, там есть &lt;a href="https://www.practicewindowfunctions.com/learn/beginner_series.html">туториал по оконным функциям&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Также &lt;strong>LLM&lt;/strong> оказывается полезной, например, может указать на пробелы в знаниях. Лучше описывать свою ситуацию подробнее (что уже знаешь, что хочешь знать, сколько времени можешь выделить), и указывать в промте, что нужно спросить обратную связь (стандартные рекомендации для таких целей).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Советовали также книгу &amp;laquo;Освой SQL самостоятельно за 10 минут&amp;raquo; Бена Форты, у неё есть русскоязычное издание 2021 года. Пока не смотрел, но выглядит адекватно (кроме названия :).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Из прямо интересного-игрового знаю &lt;a href="https://mystery.knightlab.com">https://mystery.knightlab.com&lt;/a> - детектив, где нужно найти убийцу с помощью запросов к базе данных. Это не родоначальник жанра игр по SQL - первая, которую нахожу, это &lt;a href="https://sql-island.informatik.uni-kl.de">https://sql-island.informatik.uni-kl.de&lt;/a> (через меню вверху слева можно поменять язык на английский).&lt;/p>
+&lt;/li>
+&lt;/ul></content></item><item><title>Основная проблема цитат из LLM</title><link>https://tookser.github.io/posts/llm_citing/</link><pubDate>Sat, 10 Jan 2026 16:12:07 +0300</pubDate><guid>https://tookser.github.io/posts/llm_citing/</guid><description>Несколько причин, по которым обычно не стоит отвечать на вопрос в чате копипастой из LLM.
 Почему нельзя Ненужность. Сейчас у большинства людей есть доступ к LLM. Если человек задаёт вопрос &amp;ndash; обычно он ознакомился с некоторой информацией на тему, в том числе из нейросетей. Стиль речи. Стиль речи LLM, её особенности форматирования, речевых конструкций (&amp;ldquo;это не X, это &amp;ndash; Y&amp;rdquo;, &amp;ldquo;Ты попал прямо в точку!&amp;quot;) сильно отличаются от ответа, который дал бы человек.</description><content>&lt;p>Несколько причин, по которым обычно &lt;em>не стоит&lt;/em> отвечать на вопрос в чате копипастой из LLM.&lt;/p>
 &lt;h2 id="почему-нельзя">Почему нельзя&lt;/h2>
 &lt;ol>
