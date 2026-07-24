@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tookser.github.io/sitemap.xml
